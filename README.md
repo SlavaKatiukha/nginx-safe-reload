@@ -37,6 +37,12 @@ After the installation, the add-on gives you the options to:
 
 ![Usage](images/usage.png)
 
+For example, you can navigate to the **Configs** section of the NGINX-based node layer, change an NGINX configuration file, and press **Save**. Then, go back to the **Add-Ons** section and click on the **Check Configs** or **Reload** button. The add-on will perform a syntax check or a syntax check and reload the NGINX service, respectively.
+
+![NGINX Config File](images/nginx-config-file.png)
+![alt text](/images/addon-reloading.png)
+![alt text](/images/addon-reload-success.png)
+
 ## License
 
 This add-on is released under the Apache 2.0 license. For more information, see the [LICENSE](LICENSE) file.
