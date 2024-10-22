@@ -41,6 +41,7 @@ For example, you can navigate to the **Configs** section of the NGINX-based node
 
 ![NGINX Config File](images/nginx-config-file.png)
 ![alt text](/images/addon-reloading.png)
+
 ![alt text](/images/addon-reload-success.png)
 
 ## License
