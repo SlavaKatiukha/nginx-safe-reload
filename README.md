@@ -1,1 +1,1 @@
-# nginx-safe-reload
+# NGINX Safe Reload Add-On
