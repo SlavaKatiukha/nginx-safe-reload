@@ -3,8 +3,8 @@ jpsVersion: 6.3.2
 id: nginx-safe-reload
 name: NGINX Safe Reload
 logo: images/logo.svg?sanitize=true
-baseUrl: https://raw.githubusercontent.com/SlavaKatiukha/nginx-safe-reload/main
-homepage:  https://github.com/SlavaKatiukha/nginx-safe-reload
+baseUrl: https://raw.githubusercontent.com/jelastic-jps/nginx-safe-reload/main
+homepage:  https://github.com/jelastic-jps/nginx-safe-reload
 description: 
   short: Apply NGINX configuration changes without a restart by performing a syntax check and safely reloading the service
   text: |
